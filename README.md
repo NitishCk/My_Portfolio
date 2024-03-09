@@ -1,2 +1,1 @@
-# My_Portfolio
-This repo contains files regarding my Portfolio
+# This is all about Me and MySelf
